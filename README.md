@@ -269,7 +269,7 @@ The Japanese version of Sonic Unleashed has some minor differences in both file 
 
 - [MarkosTh09](https://github.com/Markos-Th09): Creator and Lead Developer of the port.
 
-- [Çağan](https://github.com/yorgunkral31): Turkish dude who vibecoded shit and fixed everything
+- [Çağan](https://github.com/yorgunkral31):  goat who vibecoded shit and fixed everything
 
 ### Unleashed Recompiled
 
