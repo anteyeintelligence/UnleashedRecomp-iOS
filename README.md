@@ -8,7 +8,7 @@ Unleashed Recompiled iOS is an unofficial iOS port of the Sonic Unleashed Recomp
 
 **This project does not include any game assets. You must provide the files from your own legally acquired copy of the game to install or build Unleashed Recompiled.**
 
-[Check out the latest release here](https://github.com/hedge-dev/UnleashedRecomp/releases/latest).
+[Check out the latest release here](https://github.com/Markos-Th09/UnleashedRecomp-iOS/releases).
 
 ## Table of Contents
 
@@ -70,7 +70,7 @@ For instructions on obtaining the ROM file from an Xbox 360, see [here](https://
 
 2) write some shit here
 
-3) Download [the latest release](https://github.com/hedge-dev/UnleashedRecomp/releases/latest) of Unleashed Recompiled iOS and extract it to where you'd like the game to be installed.
+3) Download [the latest release](https://github.com/Markos-Th09/UnleashedRecomp-iOS/releases) of Unleashed Recompiled iOS and extract it to where you'd like the game to be installed.
 
 4) Run the executable and you will be guided through the installation process. You will be asked to provide the files you acquired in the previous step. When presented with options for how to do this:
 
@@ -176,7 +176,7 @@ Yes, Unleashed Recompiled iOS has a discord server for technical help and bug re
 **Please link here when directing anyone to the project.**
 
 > [!CAUTION]
-> Do not download builds of Unleashed Recompiled from anywhere but our [Releases](https://github.com/hedge-dev/UnleashedRecomp/releases/latest) page.
+> Do not download builds of Unleashed Recompiled from anywhere but our [Releases](https://github.com/Markos-Th09/UnleashedRecomp-iOS/releases) page.
 >
 > **We will never distribute builds on other websites, via Discord servers or via third-party update tools.**
 
