@@ -12,7 +12,7 @@ Unleashed Recompiled iOS is an unofficial iOS port of the Sonic Unleashed Recomp
 
 ## Table of Contents
 
-- [Supported Devices](#minimum-system-requirements)
+- [Supported Devices](#supported-devices)
 - [How to Install](#how-to-install)
 - [Features](#features)
 - [Update Roadmap](#update-roadmap)
@@ -56,7 +56,7 @@ Since the game utilizes DXT/BC compressed textures, only very recent iOS devices
 - iPad Air (M4)
 
 > [!NOTE]
-> More storage space may be required if uncompressed game files are provided during installation.
+> Installation requires ~10GB free space with DLC and ~6GB free space without DLC. DLC installation is highly recommended.
 
 ## How to Install
 
