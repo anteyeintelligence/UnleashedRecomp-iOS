@@ -233,6 +233,22 @@ Refer to the left column of [this enum template](https://github.com/hedge-dev/Un
 
 DO TS LATER
 
+### Why can't I set MSAA to a higher setting?
+
+Graphical feature support differs across Apple SOC's with different generation GPU.  
+
+| Chip | Apple GPU Family | 2x | 4x | 8x |
+|------|:---:|:---:|:---:|:---:|
+| M1 | Apple 7 | ✓ | ✓ | ✗ |
+| M2 | Apple 8 | ✓ | ✓ | ✗ |
+| A17 Pro | Apple 9 | ✓ | ✓ | ✓ |
+| A18 / A18 Pro | Apple 9 | ✓ | ✓ | ✓ |
+| M3 | Apple 9 | ✓ | ✓ | ✓ |
+| M4 | Apple 9 | ✓ | ✓ | ✓ |
+| A19-series | Apple 10 | ✓ | ✓ | ✓ |
+| M5 | Apple 10 | ✓ | ✓ | ✓ |
+
+
 ### I want to update the game. How can I avoid losing my save data? Do I need to reinstall the game?
 
 You can update the game by simply downloading a newer version of the .ipa and installing it. Most sideloaded app managers, including LiveContainer, will have an option to replace the old app file with the new one. Your save data will be preserved.
