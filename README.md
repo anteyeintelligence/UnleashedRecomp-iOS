@@ -15,7 +15,6 @@ Unleashed Recompiled iOS is an unofficial iOS port of the Sonic Unleashed Recomp
 - [Supported Devices](#supported-devices)
 - [How to Install](#how-to-install)
 - [Features](#features)
-- [Update Roadmap](#update-roadmap)
 - [Known Issues](#known-issues)
 - [FAQ](#faq)
 - [Building](#building)
